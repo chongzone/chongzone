@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello pals 👋
 
-<!--
-**chongzone/chongzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [chongzone](https://github.com/chongzone/chongzone), I'm a software developer 👨‍💻 who is like music、football、basketball
 
-Here are some ideas to get you started:
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:chongzone@163.com)](mailto:chongzone@163.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chongzone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 About
+
+- 🔭 I’m currently working on Hangzhou, China
+- 🌱 I’m currently learning Object-C、Swift、Flutter、Vue etc.
+- 📫 How to reach me: [@Gmail](kchongzone@gmail.com) [@163](mailto:chongzone@163.com)
+- 👨‍💻 My Blog: https://chongzone.cc/
