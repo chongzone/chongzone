@@ -8,6 +8,6 @@ I'm [chongzone](https://github.com/chongzone/chongzone), I'm a software develope
 ## 🧐 About
 
 - 🔭 I’m currently working on Hangzhou, China
-- 🌱 I’m currently learning Object-C、Swift、Flutter、Vue etc.
+- 🌱 I’m currently learning Object-C、Swift、Flutter、Ruby、Javascript、Vue etc.
 - 📫 How to reach me: [@Gmail](kchongzone@gmail.com) [@163](mailto:chongzone@163.com)
 - 👨‍💻 My Blog: https://chongzone.cc/
